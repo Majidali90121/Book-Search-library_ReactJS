@@ -1,0 +1,7 @@
+body{
+  display:flex;
+  background:#f9f7f1;
+  color:#1a1a1a;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  justify-content:center;
+}
